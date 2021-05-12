@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+external/__init__.py
+external/utils.py
+external.egg-info/PKG-INFO
+external.egg-info/SOURCES.txt
+external.egg-info/dependency_links.txt
+external.egg-info/not-zip-safe
+external.egg-info/top_level.txt
